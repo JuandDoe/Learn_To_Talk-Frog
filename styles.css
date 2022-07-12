@@ -1,0 +1,35 @@
+h2 {
+  font-style: italic;
+  font-family: 'Lato', sans-serif;
+}
+ h3{
+   font-size: 40px;
+   font-family: 'Lato', sans-serif;
+ }
+
+
+ html {
+    min-height: 100%;
+    background-image: url(https://img.freepik.com/vecteurs-premium/fond-aquarelle-degrade_266878-62.jpg?w=1060);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ table.unstyledTable {
+ }
+ table.unstyledTable td, table.unstyledTable th {
+ }
+ table.unstyledTable thead {
+   background: #DDDDDD;
+ }
+ table.unstyledTable thead th {
+   font-weight: normal;
+ }
+ table.unstyledTable tfoot {
+   font-weight: bold;
+ }
+
+ .ascii-art {
+    font-family: monospace;
+    white-space: pre;
+}
